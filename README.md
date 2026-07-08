@@ -18,19 +18,22 @@ centers, towers) and underweight to office is the portfolio's central thesis.
 
 **Attribution.** Active return of +1.0% vs. an equal-sector-weight policy benchmark came
 almost entirely from sector allocation (+1.1%) rather than security selection (−0.05%).
-The strongest single call was underweighting office (+7.7% relative, the sector returned
+The strongest single call was underweighting office (+7.7% relative; the sector returned
 −22%); the largest drag was underweighting healthcare (−5.0%), which was in fact the
-top-performing sector. (Selection is measured only in the two multi-name sectors,
-Residential and Retail; the other six hold a single REIT each.)
+top-performing sector. Selection is measured only in the two multi-name sectors
+(Residential and Retail); the other six hold a single REIT each.
 
 **Drawdown.** Maximum drawdown was −40.4% during the Feb–Mar 2020 COVID crash, marginally
 shallower than VNQ's −42.4% — the sector tilts offered limited downside protection in a
 correlated sell-off.
 
 **Rate sensitivity.** Daily correlation to long Treasuries (TLT) averaged just +0.06 over
-the decade, but the rolling correlation rose to roughly [FILL FROM YOUR CHART] during the
-2022–23 rate shock, confirming that listed REITs re-couple to duration when the cost of
-capital moves — the core macro driver of the asset class.
+the full decade, but the rolling 90-day correlation reveals a clear regime shift: it ran
+near zero to negative through 2020–21 (bottoming near −0.5 in the COVID crash), then
+turned persistently positive — climbing to roughly +0.6 and holding at +0.5 to +0.6 from
+late 2023 onward. As long-end rates rose, REITs and long bonds began moving together,
+confirming that listed real estate re-couples to duration when the cost of capital moves —
+the core macro driver of the asset class.
 
 ---
 
