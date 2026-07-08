@@ -2,6 +2,36 @@
 
 A production-quality Python project that replicates the monthly performance and attribution reporting workflow of an institutional real-estate portfolio. It holds ten best-in-class REITs across eight property sectors, benchmarks them against the REIT index (VNQ), decomposes returns by property sector via Brinson–Fachler attribution, and — the differentiator — quantifies REITs' rate sensitivity through the 2022–23 rate shock. Runs end-to-end in Google Colab; publishes cleanly to GitHub.
 
+## Key Findings
+
+**Risk-adjusted outperformance.** Over the 10-year window the portfolio compounded at
+10.1% annually (+162% cumulative) versus 5.0% for the REIT index (VNQ) — roughly double
+the return, with a Sharpe of 0.45 vs. 0.23. The edge came from return rather than lower
+risk: portfolio volatility (21.7%) slightly exceeded VNQ's (20.7%), reflecting a
+concentrated 10-name book.
+
+**Property-type divergence drove results.** Returns dispersed enormously by property
+sector — Welltower (healthcare, +16.3% CAGR), Prologis (industrial, +14.5%), and Equinix
+(data centers, +12.3%) led, while BXP (office) was the only holding with a negative
+10-year return (−2.5% CAGR). The overweight to structural winners (industrial, data
+centers, towers) and underweight to office is the portfolio's central thesis.
+
+**Attribution.** Active return of +1.0% vs. an equal-sector-weight policy benchmark came
+almost entirely from sector allocation (+1.1%) rather than security selection (−0.05%).
+The strongest single call was underweighting office (+7.7% relative, the sector returned
+−22%); the largest drag was underweighting healthcare (−5.0%), which was in fact the
+top-performing sector. (Selection is measured only in the two multi-name sectors,
+Residential and Retail; the other six hold a single REIT each.)
+
+**Drawdown.** Maximum drawdown was −40.4% during the Feb–Mar 2020 COVID crash, marginally
+shallower than VNQ's −42.4% — the sector tilts offered limited downside protection in a
+correlated sell-off.
+
+**Rate sensitivity.** Daily correlation to long Treasuries (TLT) averaged just +0.06 over
+the decade, but the rolling correlation rose to roughly [FILL FROM YOUR CHART] during the
+2022–23 rate shock, confirming that listed REITs re-couple to duration when the cost of
+capital moves — the core macro driver of the asset class.
+
 ---
 
 ## 1. Project Overview
